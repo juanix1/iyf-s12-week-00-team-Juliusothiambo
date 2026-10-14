@@ -7,7 +7,7 @@ Welcome to our IYF Season 12 team collaboration project. This repository helps u
 Team Members
 
 - Julius Othiambo — Team Leader
-- Teammate 2 — Member
+- Clinton Hamisi — Member
 - Teammate 3 — Member
 
 Team Knowledge Base
@@ -16,7 +16,7 @@ Julius Othiambo — Git and GitHub
 
 Git is a version control system that helps developers track changes in their projects. GitHub is an online platform where developers can host repositories, collaborate and review code using pull requests.
 
-Teammate 2 — [Assigned Topic]
+Clinton Hamisi — [Assigned Topic]
 
 This section will contain the member's contribution.
 
